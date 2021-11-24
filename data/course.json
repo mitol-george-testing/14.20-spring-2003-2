@@ -1,0 +1,38 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5ab6df7b-d206-0a13-142a-9b0e47fa4936"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Industrial Organization and Public Policy",
+  "course_description": "This is a course in industrial organization, the study of firms in markets. Industrial organization focuses on firm behavior in imperfectly competitive markets, which appear to be far more common than the perfectly competitive markets that were the focus of your basic microeconomics course. This field analyzes the acquisition and use of market power by firms, strategic interactions among firms, and the role of government competition policy. We will approach this subject from both theoretical and applied perspectives.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.20",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
